@@ -83,6 +83,7 @@ How to Use
 
 ![image](https://github.com/MihirDavada/Full_Stack_E_Commerce_Website/assets/101976200/f7da623f-8dc7-4d8d-8805-a55a270f6ccb)
 
+![image](https://github.com/MihirDavada/Full_Stack_E_Commerce_Website/assets/101976200/ca961cc3-fd43-401e-8f5e-c78e4d1ddeee)
 
 
 **Contribution**
