@@ -17,26 +17,19 @@ How to Use
 
   - Clone this repository to your local machine.
 
-    bash
-    Copy code
-    git clone <repository_url>
+    - git clone <repository_url>
 
   - Navigate to the project directory:
 
-    bash
-    Copy code
-    cd e-commerce-web-app
+    - cd FUll_Stack_E_Commerce_Website
     
-  - Set up your virtual environment and install the required dependencies.
-
   - Configure your Django settings, including database and environment variables.
 
   - Run the development server for the backend.
-
-    python manage.py runserver
+    - cd backend
+    - python manage.py runserver
     
   - Start the React frontend.
-
     cd frontend
     npm start
     
